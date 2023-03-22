@@ -9,3 +9,13 @@ E:\source\repos\Universidad\Universidad\obj\Debug\Universidad.csproj.GenerateRes
 E:\source\repos\Universidad\Universidad\obj\Debug\Universidad.csproj.CoreCompileInputs.cache
 E:\source\repos\Universidad\Universidad\obj\Debug\Universidad.exe
 E:\source\repos\Universidad\Universidad\obj\Debug\Universidad.pdb
+C:\Users\Estudiante\Desktop\Universidad\Universidad\bin\Debug\Universidad.exe.config
+C:\Users\Estudiante\Desktop\Universidad\Universidad\bin\Debug\Universidad.exe
+C:\Users\Estudiante\Desktop\Universidad\Universidad\bin\Debug\Universidad.pdb
+C:\Users\Estudiante\Desktop\Universidad\Universidad\obj\Debug\Universidad.csproj.AssemblyReference.cache
+C:\Users\Estudiante\Desktop\Universidad\Universidad\obj\Debug\Universidad.Form1.resources
+C:\Users\Estudiante\Desktop\Universidad\Universidad\obj\Debug\Universidad.Properties.Resources.resources
+C:\Users\Estudiante\Desktop\Universidad\Universidad\obj\Debug\Universidad.csproj.GenerateResource.cache
+C:\Users\Estudiante\Desktop\Universidad\Universidad\obj\Debug\Universidad.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\Universidad\Universidad\obj\Debug\Universidad.exe
+C:\Users\Estudiante\Desktop\Universidad\Universidad\obj\Debug\Universidad.pdb

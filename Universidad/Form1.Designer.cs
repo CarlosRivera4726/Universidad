@@ -79,7 +79,7 @@
             this.panel1.Controls.Add(this.txtNombreMateria);
             this.panel1.Controls.Add(this.label3);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(1, 1);
+            this.panel1.Location = new System.Drawing.Point(409, 1);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(401, 580);
             this.panel1.TabIndex = 0;
@@ -249,7 +249,7 @@
             this.panel2.Controls.Add(this.lblNombre);
             this.panel2.Controls.Add(this.btnEliminarEstudiante);
             this.panel2.Controls.Add(this.btnAgregarEstudiante);
-            this.panel2.Location = new System.Drawing.Point(408, 1);
+            this.panel2.Location = new System.Drawing.Point(2, 1);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(401, 580);
             this.panel2.TabIndex = 1;
